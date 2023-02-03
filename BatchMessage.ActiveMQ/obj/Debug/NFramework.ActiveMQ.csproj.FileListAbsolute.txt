@@ -1,0 +1,16 @@
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\NFramework.ActiveMQ.dll.config
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\NFramework.ActiveMQ.dll
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\NFramework.ActiveMQ.pdb
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\Apache.NMS.dll
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\Newtonsoft.Json.dll
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\Apache.NMS.pdb
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\Apache.NMS.xml
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.pdb
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.xml
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\bin\Debug\Newtonsoft.Json.xml
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\obj\Debug\NFramework.ActiveMQ.csproj.AssemblyReference.cache
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\obj\Debug\NFramework.ActiveMQ.csproj.CoreCompileInputs.cache
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\obj\Debug\NFramework.ActiveMQ.csproj.CopyComplete
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\obj\Debug\NFramework.ActiveMQ.dll
+G:\Raya-It\Codes\ActiveMq\NFramework.ActiveMQ-master\NFramework.ActiveMQ-master\src\NFramework.ActiveMQ\obj\Debug\NFramework.ActiveMQ.pdb
