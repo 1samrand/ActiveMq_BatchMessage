@@ -3,10 +3,10 @@ This code is the use of a feature such as the use of a group of messages in the 
 
 # Getting Started
 
- 1.make sure you have ActiveMq in your pc
- 2.the entry point of application is BatchMessage.ActiveMQ.Test/program.cs 
- 3.you can use this method : SendBulkTextMessage(string queueName, int numberOfMessage) to push test message to the queue
- 4.with the help of this method : ReceiveBulkMessage(string queueName, int bulkcount, bool forceToRollback) we can read chunk of message that exist in ActiveMq
+ 1.make sure you have ActiveMq in your pc </br>
+ 2.the entry point of application is BatchMessage.ActiveMQ.Test/program.cs </br>
+ 3.you can use this method : SendBulkTextMessage(string queueName, int numberOfMessage) to push test message to the queue </br>
+ 4.with the help of this method : ReceiveBulkMessage(string queueName, int bulkcount, bool forceToRollback) we can read chunk of message that exist in ActiveMq </br>
  
  
   in this case to implement chunk of meesage we are using AcknowledgementMode =  AcknowledgementMode.Transactional 
